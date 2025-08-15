@@ -66,4 +66,4 @@ These games focus on:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://imafrah.github.io/Practice-Games/
