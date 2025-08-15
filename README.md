@@ -1,4 +1,4 @@
-# Practice Games Repository 🎮
+# Practice Games 🎮
 
 Welcome to my **Practice Games** repository!  
 This repo contains fun and interactive mini-games built to practice JavaScript logic, DOM manipulation, and UI design skills.  
