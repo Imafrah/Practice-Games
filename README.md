@@ -28,7 +28,7 @@ A simple browser-based game where the player competes against the computer in a 
 - JavaScript
 
 ## 📷 Preview
-<img width="1365" height="626" alt="image" src="https://github.com/user-attachments/assets/6ee66364-0a47-4d5b-a08a-6597a187ae31" />
+<img width="1364" height="630" alt="image" src="https://github.com/user-attachments/assets/fa3b8a4a-cbf3-4912-aa50-adf8b087bd23" />
 
 ---
 
@@ -47,7 +47,8 @@ A web-based version of the classic Tic Tac Toe game where two players can play o
 - JavaScript
 
 ## 📷 Preview
-<img width="1365" height="626" alt="image" src="https://github.com/user-attachments/assets/6ee66364-0a47-4d5b-a08a-6597a187ae31" />
+<img width="1363" height="627" alt="image" src="https://github.com/user-attachments/assets/4b5ac370-3d69-4c4d-b386-d36a50e45478" />
+
 
 ---
 
